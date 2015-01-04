@@ -1,11 +1,27 @@
 fileFormatVersion: 2
 guid: dc7a0ef3542b64f42a3d9a6ed6c54fa7
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Rombo_0
+    21300002: Rombo_1
+    21300004: Rombo_2
+    21300006: Rombo_3
+    21300008: Rombo_4
+    21300010: Rombo_5
+    21300012: Rombo_6
+    21300014: Rombo_7
+    21300016: Rombo_8
+    21300018: Rombo_9
+    21300020: Rombo_10
+    21300022: Rombo_11
+    21300024: Rombo_12
+    21300026: Rombo_13
+    21300028: Rombo_14
+    21300030: Rombo_15
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     linearTexture: 0
     correctGamma: 0
     fadeOut: 0
@@ -22,16 +38,16 @@ TextureImporter:
   generateCubemap: 0
   seamlessCubemap: 0
   textureFormat: -1
-  maxTextureSize: 1024
+  maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
-    wrapMode: -1
+    wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -42,6 +58,166 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: Rombo_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 737
+        width: 127
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rombo_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 733
+        width: 127
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rombo_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 737
+        width: 127
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rombo_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 540
+        width: 126
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rombo_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 539
+        width: 122
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rombo_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 539
+        width: 122
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rombo_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 345
+        width: 122
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rombo_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 345
+        width: 122
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rombo_8
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 345
+        width: 121
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rombo_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 148
+        width: 122
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rombo_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 208
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rombo_11
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 219
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rombo_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rombo_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 11
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rombo_14
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 13
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rombo_15
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 0
+        width: 115
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

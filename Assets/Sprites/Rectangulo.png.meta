@@ -1,7 +1,22 @@
 fileFormatVersion: 2
 guid: a49a755314b4b4a4989b72f7f495067f
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Rectangulo_0
+    21300002: Rectangulo_1
+    21300004: Rectangulo_2
+    21300006: Rectangulo_3
+    21300008: Rectangulo_4
+    21300010: Rectangulo_5
+    21300012: Rectangulo_6
+    21300014: Rectangulo_7
+    21300016: Rectangulo_8
+    21300018: Rectangulo_9
+    21300020: Rectangulo_10
+    21300022: Rectangulo_11
+    21300024: Rectangulo_12
+    21300026: Rectangulo_13
+    21300028: Rectangulo_14
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -22,16 +37,16 @@ TextureImporter:
   generateCubemap: 0
   seamlessCubemap: 0
   textureFormat: -1
-  maxTextureSize: 1024
+  maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
-    wrapMode: -1
+    wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -42,6 +57,156 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: Rectangulo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 763
+        width: 121
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rectangulo_1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 752
+        width: 121
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rectangulo_2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 763
+        width: 123
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rectangulo_3
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 763
+        width: 121
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rectangulo_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 121
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rectangulo_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 472
+        width: 123
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rectangulo_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 473
+        width: 121
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rectangulo_7
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 471
+        width: 120
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rectangulo_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 121
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rectangulo_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 166
+        width: 121
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rectangulo_10
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 166
+        width: 121
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rectangulo_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 51
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rectangulo_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 52
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rectangulo_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 4
+        width: 53
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rectangulo_14
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 35
+        width: 97
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
