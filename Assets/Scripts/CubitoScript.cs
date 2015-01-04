@@ -10,7 +10,7 @@ public class CubitoScript : MonoBehaviour
 		Animator anim;
 		bool grounded = false;
 		public Transform groundCheck;
-		float groundRadius = 0.02f;
+		float groundRadius = 0.5f;
 		public LayerMask whatIsGround;
 		
 	
