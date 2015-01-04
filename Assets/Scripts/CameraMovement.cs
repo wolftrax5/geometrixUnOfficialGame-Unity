@@ -15,7 +15,7 @@ public class CameraMovement : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		thisTransform = transform;
-		velocity.x = 0.1f;
+		velocity.x = 5f;
 	}
 	
 	// Update is called once per frame

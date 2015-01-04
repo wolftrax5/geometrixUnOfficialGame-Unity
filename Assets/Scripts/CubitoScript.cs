@@ -5,7 +5,7 @@ public class CubitoScript : MonoBehaviour
 {
 
 	
-		public float maxSpeed = 5f;
+		private float maxSpeed = 7f;
 		bool facingRight = true;
 		Animator anim;
 		bool grounded = false;
@@ -52,9 +52,6 @@ public class CubitoScript : MonoBehaviour
 		// Update is called once per frame
 		void Update ()
 		{
-
-				//camera.ViewportToWorldPoint (new Vector3 (rigidbody2D.velocity.x, 3,-10));
-				
 
 				if (grounded && Input.GetKeyDown (KeyCode.Space)) {
 						anim.SetBool ("Ground", false);
