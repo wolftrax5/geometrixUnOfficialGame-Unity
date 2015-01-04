@@ -19,7 +19,7 @@ public class PentagonoScript : MonoBehaviour
 		// Update is called once per frame
 		void FixedUpdate ()
 		{
-				move = -1f;
+				move = .7f;
 				anim.SetFloat ("Speed", Mathf.Abs (move));
 				rigidbody2D.velocity = new Vector2 (move, rigidbody2D.velocity.y);
 				

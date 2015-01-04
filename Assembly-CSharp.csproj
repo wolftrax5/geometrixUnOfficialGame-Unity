@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\CameraMovement.cs" />
+     <Compile Include="Assets\Scripts\CirculoScript.cs" />
      <Compile Include="Assets\Scripts\CubitoScript.cs" />
      <Compile Include="Assets\Scripts\PentagonoScript.cs" />
  <Reference Include="UnityEngine.UI">
